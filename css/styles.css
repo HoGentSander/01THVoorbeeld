@@ -1,6 +1,6 @@
 body{
     /*lettertype*/
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
     /*achtergrondkleur*/
     background-color:cornsilk;
     /*centreren*/
@@ -11,7 +11,7 @@ img{
     /*logo onder tekst */
     display: block;
     /*breedte wijzigen*/
-    max-width: 250px;
+    width: 250px;
     /*extra ruimte*/
     padding: 10px;
 }
